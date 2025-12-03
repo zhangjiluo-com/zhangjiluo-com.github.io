@@ -1,0 +1,21 @@
+{
+  "name": "www.zhangjiluo.com",
+  "version": "0.0.1",
+  "description": "https://zhangjiluo-com.github.io",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": [
+    "zhangjiluo"
+  ],
+  "author": "zhangjiluo.com <603495474@qq.com>",
+  "packageManager": "pnpm@10.24.0",
+  "devDependencies": {
+    "vitepress": "2.0.0-alpha.15"
+  },
+  "dependencies": {
+    "vue": "^3.5.25"
+  }
+}
